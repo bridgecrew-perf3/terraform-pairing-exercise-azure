@@ -1,0 +1,1 @@
+# terraform-pairing-exercise-azure
